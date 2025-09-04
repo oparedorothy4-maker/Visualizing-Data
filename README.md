@@ -1,2 +1,2 @@
-# Visualizing-Data
+# Visualizing-Dataset
 Teens and Smartphones
