@@ -50,9 +50,7 @@ Teen-Smartphone-Usage-Analysis/
 ## How to Run
 1. Clone the repository  
 2. Install dependencies:
-   
 pip install pandas matplotlib
-
 3. Open the notebook and run the analysis  
 
 ## Future Improvements
